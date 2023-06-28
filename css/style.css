@@ -19,7 +19,7 @@ nav{
 /* story section*/
 
 .story-section{
-	padding:80px 0 80px;
+	padding:3em 0 3em;
 }
 .story-section .story-content{
 	flex:0 0 100%;
@@ -114,4 +114,8 @@ nav{
 
 #nav-works{
 	border-bottom: solid #000000 2px;
+}
+
+.text-justify{
+	text-align: justify;
 }
